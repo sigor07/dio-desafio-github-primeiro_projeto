@@ -1,4 +1,4 @@
 
-Link para Download do Git: https://desktop.github.com/
+= Link para Download do Git: https://desktop.github.com/
 
-O gitbash é um terminal estendido para otimizar o uso do Git
+= O gitbash é um terminal estendido para otimizar o uso do Git
