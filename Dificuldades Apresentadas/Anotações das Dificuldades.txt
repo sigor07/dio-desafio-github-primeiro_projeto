@@ -1,0 +1,6 @@
+
+= Erro ao subir as pastas pro Git
+   - Ao dar o comando "git add ." (Sem aspas) apresentava erro de User e Email
+   - Para definir as configuração de nome de usuário / e-mail global:
+     - git config --global user.name "FIRST_NAME LAST_NAME"
+     - git config --global user.email "MY_NAME@example.com"
