@@ -1,0 +1,11 @@
+
+Link de comando do Github: https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+
+ = Comandos Github
+   - git clone . . . (Clona o link do repositorio git para GitBash)
+   - cd . . . ( Entra na pasta que inserir)
+   - git status (Verifica se está tudo OK(verde)
+   - git add . (adiciona novas pastas, documentos, alterações ao computador LOCAL)
+   - git commit -m "Inclusão . . . " (Commit Local)
+   - git push origin main (Envia todos os commit LOCAL para a Nuvem (Github))
